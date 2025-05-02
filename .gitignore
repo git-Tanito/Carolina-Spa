@@ -1,0 +1,15 @@
+# Ignorar dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Ignorar la carpeta de build (archivos generados)
+build/
+
+# Archivos de log
+*.log
+
+# Configuración de VS Code
+.vscode/
+
