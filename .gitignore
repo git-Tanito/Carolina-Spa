@@ -5,7 +5,7 @@ node_modules/
 .env
 
 # Ignorar la carpeta de build (archivos generados)
-build/
+
 
 # Archivos de log
 *.log
